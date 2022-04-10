@@ -5,7 +5,8 @@
 ### v0.1.3 Beta | Working
 
 - Update system settings: RAM setup from by-0.5GB to by-0.25GB   
-Add hint for converting MB to GB
+Add hint for converting MB to GB   
+Add tips for playing the game about setting up the RAMs
 - Add LISENCE.md: Including Source Code Lisence, Open Source Lisence,   
 and Minecraft Components' one.
 - TBD
