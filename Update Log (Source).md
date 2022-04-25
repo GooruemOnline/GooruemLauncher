@@ -9,6 +9,11 @@ Add hint for converting MB to GB
 Add tips for playing the game about setting up the RAMs
 - Add LISENCE.md: Including Source Code Lisence, Open Source Lisence,   
 and Minecraft Components' one.
+- Translated XboxLoginWindow to "Microsoft 계정으로 로그인"
+- Add Pam's HarvestCraft 2 (Food Series) to mods list
+- Update build software to VS Community 2022
+  * up to here = v0.1.3 PreRelease 1
+
 - TBD
   + Update resources
   + Update mod language files
@@ -20,7 +25,7 @@ and Minecraft Components' one.
 
 ### v0.1.2 PreRelease 1 | Pre-Release
 
-- update Optifine to HD U H8
+- update Optifine to HD U H6
 - Replace Icon
 
 ### v0.1.1 | Pre-Release
