@@ -4,6 +4,7 @@
 
 ### v0.1.3 Beta | Working
 
+#### Prerelease 1
 - Update system settings: RAM setup from by-0.5GB to by-0.25GB   
 Add hint for converting MB to GB   
 Add tips for playing the game about setting up the RAMs
@@ -12,11 +13,17 @@ and Minecraft Components' one.
 - Translated XboxLoginWindow to "Microsoft 계정으로 로그인"
 - Add Pam's HarvestCraft 2 (Food Series) to mods list
 - Update build software to VS Community 2022
-  * up to here = v0.1.3 PreRelease 1
 
+#### Prerelease 2
+- Update transplanted logo file
+  * Also updated the icon file
+- [Planned] Update bootstraper to 1.18.2-forge-40.1.0
+  * Updating mods are required: this should be talked with the team
 - TBD
-  + Update resources
-  + Update mod language files
+
+#### TBD
+- Update resources
+- Update mod language files
 
 ### v0.1.2 PreRelease 2 | Release
 
