@@ -1,8 +1,16 @@
-### v0.2.0 Release | Not Working
+### v0.2.1 SNAPSHOT
 
-- TBD
+- [Internal] Version code variable is now more automated
 
-### v0.1.3 Beta | Working
+### v0.2.0 Release for 1.18.2
+
+- Update resources: Resource Pack is now at pack version "8"
+- Update mod language files: Only for item name, it's now all korean
+- Update resources: Removed 1 mod(s)
+- Code version is now main version code `0.2.0`
+- Drop support for 1.18.1 (keep files on github)
+
+### v0.1.3 Beta
 
 #### Prerelease 1
 - Update system settings: RAM setup from by-0.5GB to by-0.25GB   
@@ -17,13 +25,8 @@ and Minecraft Components' one.
 #### Prerelease 2
 - Update transplanted logo file
   * Also updated the icon file
-- [Planned] Update bootstraper to 1.18.2-forge-40.1.0
+- [Seperated] Update bootstraper to 1.18.2-forge-40.1.0
   * Updating mods are required: this should be talked with the team
-- TBD
-
-#### TBD
-- Update resources
-- Update mod language files
 
 ### v0.1.2 PreRelease 2 | Release
 
